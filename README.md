@@ -1,6 +1,3 @@
-Aquí tienes una versión ajustada y personalizada para tu proyecto, incluyendo tus estadísticas de GitHub y adaptada a un formato profesional:
-
----
 
 # 🛍️ Proyecto Final - Tienda en React
 
@@ -20,6 +17,3 @@ Este es un proyecto de comercio electrónico desarrollado en React para Coderhou
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=GinoskL&theme=dark&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinoskL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
---- 
-
-Este README presenta tu proyecto y resalta tus estadísticas de GitHub para mostrar tu progreso en el desarrollo.
